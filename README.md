@@ -37,31 +37,6 @@
 
 ---
 
-## 💼 Experience
-
-### 🚀 Software Development Engineer Intern — SocioShop
-- Built **Pixel tracking system** for campaign analytics  
-- Designed **RBAC system (5+ roles, 20+ permissions)**  
-- Developed **abandoned cart pipeline (parallel workers + retries)**  
-- Created **Redis-based async messaging system for campaigns**
-
----
-
-## 🚀 Projects
-
-### ♟️ CheckMate (Real-time Chess Platform)
-- WebSockets-based multiplayer game  
-- Integrated **Stockfish AI (3 difficulty levels)**  
-- PGN parser + opening explorer  
-- Persistent game state (300+ games)
-
-### 🛒 Microservices E-Commerce Platform
-- 6 services using **Kafka (event-driven)**  
-- Stripe payment integration  
-- Scalable architecture with Turborepo  
-
----
-
 ## 📫 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/saumya singh chauhan" target="blank">
