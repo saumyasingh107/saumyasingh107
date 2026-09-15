@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Saumya Singh Chauhan</h1>
+<!-- <h1 align="center">Hi 👋 I'm Saumya Singh Chauhan</h1>
 <h3 align="center">Full Stack Developer | Building Scalable Systems 🚀</h3>
 
 <p align="center">
@@ -53,4 +53,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh107&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumyasingh107&theme=radical" />
-</p>
+</p> -->
